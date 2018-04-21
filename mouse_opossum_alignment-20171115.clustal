@@ -1,0 +1,14 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+mouse        MLPFILFSTLLSPILTESEKQQWFCNSSDAIISYSYCDHLKFPISISSEPCIRLRGTNGF
+opossum      MLQIVFFSILFTFTFTESMKNDWTCNSQDAEITYSSCDAKKPIPIININPCLSWRKTRGN
+             ** :::** *::  :*** *::* ***.** *:** **  *    *. :**:  * *.* 
+
+mouse        VHVEFIPRGNLKYLYFNLFISVN-SIELPKRKEVLCHGHDDDYSFCRALKGETVNTSIPF
+opossum      LSFYYVPRKDMKELYFNVHMELRSAIIVPKRKEVICRGVDDKYSFCRVLKGETINTTVPF
+             : . ::** ::* ****:.:.:. :* :******:*:* **.*****.*****:**::**
+
+mouse        SFEGILFPKGHYRCVAEAIAGDTEEKLFCLNFTIIHRRDVN
+opossum      SYSSLKFPKGLYIFIAEAFSGSTEDSMFCCNITLKLK----
+             *:..: **** *  :***::*.**:.:** *:*:  :    
